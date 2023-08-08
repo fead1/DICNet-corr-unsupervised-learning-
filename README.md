@@ -16,7 +16,7 @@ In this paper,We propose the establishment of an unsupervised framework for trai
 
 ### Large displacement field
 
-|Displacement field|Model|RMSE(mm)|SSIM|Param(M)|Speed(s)|
+|Displacement field|Model|MAE(pixel)|RMSE(pixel)|
 |---|---|---|---|---|---|
 |u|DICNet-corr with supervise learning|0.433|0.9978|30.33|0.0224|
 |---|DICNet-corr with unsupervise learning|1.330|0.9767|8.63|0.0093|
