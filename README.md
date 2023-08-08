@@ -16,14 +16,14 @@ In this paper,We propose the establishment of an unsupervised framework for trai
 
 ### Large displacement field
 
-|Displacement field|Model|MAE(pixel)|RMSE(pixel)|
-|---|---|---|---|---|---|
-|u|DICNet-corr with supervise learning|0.433|0.9978|30.33|0.0224|
-|---|DICNet-corr with unsupervise learning|1.330|0.9767|8.63|0.0093|
-|v|DICNet-corr with supervise learning|0.433|0.9978|30.33|0.0224|
-|---|DICNet-corr with unsupervise learning|1.330|0.9767|8.63|0.0093|
-|total|DICNet-corr with supervise learning|1.330|0.9767|8.63|0.0093|
-|---|DICNet-corr with unsupervise learning|1.330|0.9767|8.63|0.0093|
+|Displacement field|Model|Mean MAE(pixel)|Mean RMSE(pixel)|
+|---|---|---|---|---|---|---|
+|u|DICNet-corr with supervise learning|0.0588|0.0759|
+|---|DICNet-corr with unsupervise learning|0.0639|0.0834|
+|v|DICNet-corr with supervise learning|0.0665|0.0850|
+|---|DICNet-corr with unsupervise learning|0.0723|0.0927|
+|total|DICNet-corr with supervise learning|0.0626|0.0807|
+|---|DICNet-corr with unsupervise learning|0.0681|0.0886|
 
 ### small displacement field
 
