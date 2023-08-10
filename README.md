@@ -27,6 +27,13 @@ In this paper,We propose the establishment of an unsupervised framework for trai
 
 ### small displacement field
 
+|Displacement field|Model|Mean MAE(pixel)|Mean RMSE(pixel)|
+|---|---|---|---|
+|u|DICNet-corr with supervise learning|0.0221|0.0299|
+|---|DICNet-corr with unsupervise learning|0.0309|0.0453|
+|v|DICNet-corr with supervise learning|0.0209|0.00285|
+|---|DICNet-corr with unsupervise learning|0.0308|0.0452|
+
 -   **3D height map reconstructed by our method**
 
 1. 
