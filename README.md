@@ -1,4 +1,4 @@
-# UHRNet：Digital image-correlation for 2D displacement measurement Based on Unsupervised Neural Network
+# Digital image-correlation for 2D displacement measurement Based on Unsupervised Neural Network
  project implementation (pytorch)
 ## Introduction
 In this paper,We propose the establishment of an unsupervised framework for training the Digital image-correlation Neural Network for two-dimensional displacement measurement. To our knowledge, this is the first time that unsupervised learning has been applied to Digital Image-Correlation for displacement measurement.The predicted and original reference speckle images are compared to achieve unsupervised training. Our proposed method eliminates the need for extensive training dataannotation.The large displacement and small displacement datasets were selected to test the model and the model demonstrate its validity and robustness.
@@ -52,10 +52,12 @@ In this paper,We propose the establishment of an unsupervised framework for trai
 - CUDA 11.3
 - Numpy 1.23.3
 ## Pretrained model and Dataset
-- Pretrained model(supervised learning):
-
-- Pretrained model(unsupervised learning):
-- 
+- Pretrained model(with large displacement dataset):
+Link：https://pan.baidu.com/s/1mkZhYRCNXlnXrVForYECSQ 
+Password：18qf
+- Pretrained model(with small displacement dataset):
+Link：https://pan.baidu.com/s/1bhTCOSXd119DtZOuUVOlkw 
+Password：hcm4
 According the link given above to download the weights to the UHRNet folder to run the pre-trained model
 - Dataset:
 ## Citation
