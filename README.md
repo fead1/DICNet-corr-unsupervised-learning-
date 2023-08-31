@@ -62,7 +62,7 @@ Password：18qf
 - Pretrained model(with small displacement dataset):
 Link：https://pan.baidu.com/s/1bhTCOSXd119DtZOuUVOlkw 
 Password：hcm4
-According the link given above to download the weights to the UHRNet folder to run the pre-trained model
+According the link given above to download the weights to the folder to run the pre-trained model
 - Dataset:
 ## Citation
 
