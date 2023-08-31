@@ -4,7 +4,7 @@
 In this paper,We propose the establishment of an unsupervised framework for training the Digital image-correlation Neural Network for two-dimensional displacement measurement. To our knowledge, this is the first time that unsupervised learning has been applied to Digital Image-Correlation for displacement measurement.The predicted and original reference speckle images are compared to achieve unsupervised training. Our proposed method eliminates the need for extensive training dataannotation.The large displacement and small displacement datasets were selected to test the model and the model demonstrate its validity and robustness.
 
 
-**Frame of UHRNet**
+**Frame of DICNet-corr**
  
 - Unsupervised learning structure
 ![Unsupervised learning structure](https://github.com/fead1/DICNet-corr-unsupervised-learning-/blob/main/unsuperivise%20learning%20with%20DICNet-coor/Net%20Structure/Unsupervised%20learning%20structure.png)
@@ -63,6 +63,11 @@ Password：18qf
 Link：https://pan.baidu.com/s/1bhTCOSXd119DtZOuUVOlkw 
 Password：hcm4
 According the link given above to download the weights to the folder to run the pre-trained model
-- Dataset:
+- Small displacement Dataset[1]:
+- Large displacement Dataset:
+- 
+### The small displacement dataset take from the citation [1]
+ 
 ## Citation
+[1]萧红,李成南 & 冯明驰.(2023).基于深度学习的散斑图像大变形测量方法. 光学学报，2023，43（14）：123-135.
 
