@@ -75,5 +75,5 @@ According the link given above to download the weights to the folder to run the 
 |node number|30|30|15|8|
 
 ## Citation
-[1]萧红,李成南 & 冯明驰.(2023).基于深度学习的散斑图像大变形测量方法. 光学学报，2023，43（14）：123-135.
-[2]Wang Y, Zhao J. DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network[J]. Optics and Lasers in Engineering, 2023, 160: 107278
+- [1]萧红,李成南 & 冯明驰.(2023).基于深度学习的散斑图像大变形测量方法. 光学学报，2023，43（14）：123-135.
+- [2]Wang Y, Zhao J. DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network[J]. Optics and Lasers in Engineering, 2023, 160: 107278
