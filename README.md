@@ -63,11 +63,17 @@ Password：18qf
 Link：https://pan.baidu.com/s/1bhTCOSXd119DtZOuUVOlkw 
 Password：hcm4
 According the link given above to download the weights to the folder to run the pre-trained model
-- Small displacement Dataset[1]:
-- Large displacement Dataset:
-- 
-### The small displacement dataset take from the citation [1]
- 
+- Large displacement Dataset[1]:https://pan.baidu.com/s/1KzC9g_GIkvMnGFumDYGyBA?pwd=fd5x
+- Small displacement Dataset:
+
+### The small displacement dataset take from the citation [1]. This dataset contains a large number of different types of reference-deformed sample images where the maximum displacement of the displacement field reaches 16 pixels; The displacement field of the small displacement dataset is produced according to the method proposed by Zhao et al.[2], in which the speckle image is taken from the above large displacement dataset. This data set contains information such as displacement field size and sample number, as shown in the following table.
+
+|Displacement field range|[-0.5, 0.5]|[-1,1]|[-1.5,1.5]|[-2,2]|
+|---|---|---|---|---|
+|the number of sample|900|1500|1500|1500|
+|element size(pixel)|16|16|32|64|
+|node number|30|30|15|8|
+
 ## Citation
 [1]萧红,李成南 & 冯明驰.(2023).基于深度学习的散斑图像大变形测量方法. 光学学报，2023，43（14）：123-135.
-
+[2]Wang Y, Zhao J. DIC-Net: Upgrade the performance of traditional DIC with Hermite dataset and convolution neural network[J]. Optics and Lasers in Engineering, 2023, 160: 107278
